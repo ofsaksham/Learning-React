@@ -1,5 +1,5 @@
 export default function tabbutton({children, onselect}) {
-
+    console.log('TABBUTTON COMPONENT EXECUTING')
     return (
 
         <li>
