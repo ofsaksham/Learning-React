@@ -1,3 +1,5 @@
+// Coding Exercise 3: Building & Using a Component
+
 import React from 'react';
 
 
