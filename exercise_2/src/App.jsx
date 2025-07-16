@@ -1,4 +1,4 @@
-// Coding Exercise 7: Reacting to Events
+// Coding Exercise 7:  Reacting to Events
 
 export const user = {
   email: '',
