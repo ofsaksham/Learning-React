@@ -31,8 +31,7 @@ function App() {
         of your function (e.g., <code>export function MainGoal</code>
         ).
       </p>
-      {/* DON'T CHANGE THE TEXT / CONTENT ABOVE */}
-      {/* OUTPUT YOUR COMPONENT HERE */}
+      
       <MainGoal />
     </div>
   );
