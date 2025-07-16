@@ -2,13 +2,6 @@
 
 import React from 'react';
 
-
-// DEFINE YOUR COMPONENT HERE
-// IMPORTANT: Add "export" in front of your component - otherwise the automated tests won't work
-// ...
-
-// DO NOT EDIT THE APP COMPONENT NAME OR CONTENT
-// Except for outputting your custom component
 export function MainGoal() {
     return <p>
     My main goal: Learn React from the ground up.</p>
